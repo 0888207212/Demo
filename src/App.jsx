@@ -13,7 +13,7 @@ class App extends Component {
             {
                 userName: 'Hoang hieu ',
                 age: 12,
-                sex: 'Nam'
+                sex: 'Namdsdsdsd'
             }
         ]
         return ( 
